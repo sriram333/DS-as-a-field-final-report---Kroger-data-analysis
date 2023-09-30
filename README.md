@@ -1,4 +1,4 @@
-# DS-as-a-field-final-report---Kroger-data-analysis
+# Data Science as a field- Final report based Kroger Store's Data Analysis
 
 ### **Description of the Statement of Interest:**
 
@@ -26,4 +26,39 @@ Which campaigns are most efficient at generating sales per household reached bas
 
 
 By answering these questions, we can develop a better understanding of how to create marketing campaigns that reach a large number of households and generate high sales.
+
+
+### **Data sources:**
+
+**Kroger API:**
+
+**Steps to get the api keys and id:**
+
+Link: https://developer.kroger.com/documentation/public/getting-started/quick-start
+
+
+**Authorization Endpoints:**
+
+1. Get an Authorization Code
+
+2. Get an Access Token
+
+    Link: https://developer.kroger.com/reference#tag/OAuth2
+
+
+
+The following APIs are publicly available to allow new clients to build products, services, or customer experiences that leverage the unique data, functions, and applications of Kroger. 
+
+1. **Location API:** The Locations API provides access to all locations, chains, and departments that are owned by The Kroger Co.
+
+    Link: https://developer.kroger.com/reference#tag/Locations
+
+
+2. **Products API:** The Products API allows you to search the Kroger product catalog.
+
+    Link: https://developer.kroger.com/reference#tag/Products
+
+
+
+
 
